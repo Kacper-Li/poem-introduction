@@ -1,5 +1,10 @@
 The Rainbow and the Unicorn and ponies
+yay we got merge conflict!
+<<<<<<< HEAD
 hi bye nai
+=======
+website ver
+>>>>>>> cb529115783b843903fcdb57b82cac141f8b8fe6
 Purple
 Indigo
 Pink
